@@ -60,6 +60,7 @@ Todo el proceso está automatizado mediante un archivo Makefile, que permite eje
 ### 1.- Cálculo del fractal
 Se recorre una cuadrícula de puntos en el plano (x, y).
 Para cada punto, se evalúa una iteración del tipo:
+
 $$z_{n+1} = z_n^2 + c$$
 
 donde:
