@@ -1,0 +1,6 @@
+*.txt
+*.png
+*.o
+*.out
+*.bin
+julia
