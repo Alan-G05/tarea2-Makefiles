@@ -3,4 +3,6 @@
 *.o
 *.out
 *.bin
+*.dat
 julia/julia
+actividad2/programa
