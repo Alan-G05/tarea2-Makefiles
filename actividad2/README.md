@@ -58,7 +58,7 @@ Todo el proceso está automatizado mediante un archivo Makefile, que permite eje
 ### 1.- Cálculo de las salidas
 Se realiza la suma ponderada de los pesos y datos:
 
-y = f\left(\sum_{i=1}^{3} w_i x_i + b\right)
+$$y = f\left(\sum_{i=1}^{3} w_i x_i + b\right)$$
 
 donde:
 - w1 = -0.4
